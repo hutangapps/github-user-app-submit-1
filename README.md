@@ -92,4 +92,4 @@ Project dibuat menggunakan Android Studio
 Android Studio adalah Integrated Development Enviroment untuk sistem operasi Android, yang dibangun di atas perangkat lunak JetBrains IntelliJ IDEA dan didesain khusus untuk pengembangan Android.
 
 Terima kasih atas supportnya!
-Sangat Bermanfaat!
+Sangat Bermanfaat Untuk Semuanya
